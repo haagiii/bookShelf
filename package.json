@@ -1,6 +1,10 @@
 {
   "name": "bookShelf",
   "private": true,
+  "engines": {
+    "node": "8.0.0",
+    "yarn": "1.0.1"
+  },
   "dependencies": {
     "@rails/webpacker": "^3.2.2",
     "vue": "^2.5.13",
